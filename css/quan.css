@@ -1,0 +1,360 @@
+@charset "utf-8";
+#quan {
+	float: left;
+	height: 1500px;
+	width: 1400px;
+}
+#ge {
+	float: left;
+	height: 300px;
+	width: 300px;
+}
+
+
+#dao {
+	float: left;
+	height: 400px;
+	width: 100%;
+	background-image: none;
+}
+.ged {
+	float: left;
+	height: 150px;
+	width: 150px;
+	margin-left: 20px;
+}
+
+.kong {
+	float: left;
+	height: 78px;
+	width: 1400px;
+}
+#xinge {
+	float: left;
+	height: 500px;
+	width: 1000px;
+	margin-left: 200px;
+}
+.toum {
+	height: 250px;
+	width: 280px;
+}
+.mvzi {
+	float: left;
+	height: 25px;
+	width: 110px;
+	margin-left: 10px;
+	margin-top: 10px;
+	padding-top: 5px;
+	padding-left: 10px;
+	color: #CCC;
+}
+.gcd {
+	float: left;
+	height: 40px;
+	width: 130px;
+	margin-top: 10px;
+	font-size: 18px;
+	padding-top: 10px;
+	padding-left: 20px;
+	color: #FFF;
+}
+.shou {
+	font-size: 36px;
+	float: left;
+	height: 35px;
+	width: 200px;
+	margin-top: 3px;
+	margin-left: 20px;
+	padding-top: 5px;
+	font-family: "Arial Unicode MS";
+	padding-bottom: 5px;
+}
+
+
+.gad {
+	float: left;
+	height: 40px;
+	width: 180px;
+	margin-top: 10px;
+	margin-left: 20px;
+	padding-top: 10px;
+	padding-left: 20px;
+	font-size: 18px;
+	color: #FFF;
+}
+
+
+
+
+#zhong {
+	float: left;
+	height: 500px;
+	width: 1000px;
+	margin-left: 200px;
+}
+
+
+#sousuo {
+	float: left;
+	height: 50px;
+	width: 1400px;
+}
+#soukong {
+	float: left;
+	height: 10px;
+	width: 1400px;
+}
+#sou {
+	float: left;
+	height: 30px;
+	width: 1200px;
+	margin-left: 80px;
+}
+#zi {
+	float: left;
+	height: 25px;
+	width: 60px;
+	margin-top: 2px;
+	font-size: 24px;
+	color: #FFF;
+	margin-left: 2px;
+	padding-left: 20px;
+}
+
+#sous {
+	float: left;
+	height: 30px;
+	width: 1200px;
+}
+
+
+
+
+body {
+	color: #000000;
+	font-family: 'Goudy Bookletter 1911', serif;
+	font-weight: 500;
+	font-size: large;
+	font-family: "Microsoft YaHei", "宋体", "Segoe UI", "Lucida Grande", Helvetica, Arial, sans-serif, FreeSans, Arimo;
+	background-color: #494A5F;
+}
+div.container {
+	text-align: left;
+	margin: 0px;
+	min-height: 100px;
+	float: left;
+	width: 1400px;
+}
+
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+    font-weight: 300;
+    padding: .5em;
+    margin: 0;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: center;
+    font-weight: 300;
+    margin: 0;
+}
+
+body nav {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: -40px;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+	color: #aaaaaa;
+	text-decoration: none;
+}
+
+a:hover {
+	color: white;
+}
+
+li a {
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 15px;
+}
+
+li a:hover {
+    transform: rotate(5deg) scale(1.1);
+}
+
+li a:hover:before, li a:hover:after{
+    transition: all 0.3s ease;
+    opacity: 1;
+    width: 20px;
+}
+
+li a:before, li a:after {
+    opacity: 0;
+    border-top: 1px solid white;
+    content: '';
+    display: block;
+    position: relative;
+    z-index: -1;
+    margin: auto;
+    width: 0px;
+}
+
+li a:before {
+    top: 0px;
+    transform: rotate(120deg) translateY(-50%) translateX(-50%);
+}
+
+li a:after {
+    top: 5px;
+    transform: rotate(-60deg) translateY(-50%) translateX(-50%);
+}
+gehou
+{
+	float: left;
+	height: 200px;
+	width: 500px;
+}
+#geh {
+	float: left;
+	height: 150px;
+	width: 400px;
+}
+#konghou {
+	float: left;
+	height: 300px;
+	width: 700px;
+}
+#gedannn {
+	float: left;
+	height: 300px;
+	width: 420px;
+}
+#dage {
+	float: left;
+	height: 300px;
+	width: 280px;
+}
+
+
+
+#houhou {
+	float: left;
+	height: 500px;
+	width: 400px;
+}
+#gehouu {
+	float: left;
+	height: 150px;
+	width: 400px;
+}
+.touming{
+	float: left;
+	height: 40px;
+	width: 260px;
+	filter: alpha(opacity=50);
+	-moz-opacity: 0.5;
+	-khtml-opacity: 20;
+	opacity: 0.5;
+	padding-top: 10px;
+	padding-left: 20px;
+	font-size: 18px;
+	color: #CCC;
+}
+#xingee {
+	float: left;
+	height: 50px;
+	width: 1000px;
+}
+#xing {
+	float: left;
+	height: 50px;
+	width: 700px;
+}
+#mv {
+	float: left;
+	height: 50px;
+	width: 270px;
+	margin-left: 30px;
+}
+#gequ {
+	float: left;
+	height: 500px;
+	width: 1000px;
+}
+#gem {
+	float: left;
+	height: 450px;
+	width: 700px;
+}
+#mvg {
+	float: left;
+	height: 450px;
+	width: 270px;
+	margin-left: 30px;
+}
+#biao {
+	float: left;
+	height: 390px;
+	width: 600px;
+	margin-top: 25px;
+	margin-left: 30px;
+}
+#mvdan {
+	float: left;
+	height: 200px;
+	width: 260px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.mvda {
+	float: left;
+	height: 120px;
+	width: 120px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+#sss{
+	float: left;
+	height: 800px;
+	width: 1400px;
+}
+#ssss{
+	float: left;
+	height: 600px;
+	width: 1400px;
+}
+.lan {
+	color: #0099CC;
+}
+#quan #sss #xinge #xingee #mv .shou .lan {
+	font-family: "Arial Unicode MS";
+}
+#botton{
+	font-family: "方正姚体";
+	font-size: 18px;
+	width: 100%;
+	height: 200px;
+	text-align: center;
+	vertical-align: middle;
+	margin: auto;
+}
+#botton1{
+	margin-top: 50px;
+}

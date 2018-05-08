@@ -1,0 +1,328 @@
+@charset "utf-8";
+.siquan {
+	float: left;
+	height: 1500px;
+	width: 1400px;
+}
+#gun {
+	float: left;
+	height: 380px;
+	width: 1000px;
+	margin-left: 200px;
+}
+#mv {
+	float: left;
+	height: 380px;
+	width: 330px;
+	margin-left: 10px;
+}
+#pai {
+	float: left;
+	height: 27px;
+	width: 290px;
+	margin-left: 20px;
+	margin-top: 10px;
+	background-color: #999;
+	text-align: center;
+	padding-top: 3px;
+}
+#zong {
+	float: left;
+	height: 20px;
+	width: 220px;
+	margin-left: 10px;
+	text-align: center;
+	color: #CCC;
+	background-color: #7EB8B0;
+}
+
+#xbiao {
+}
+#xbiao {
+	float: left;
+	height: 330px;
+	width: 290px;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: #999;
+	font-size: 14px;
+}
+.kongq {
+	float: left;
+	height: 50px;
+	width: 1400px;
+}
+
+
+
+
+
+
+body {
+	color: #FFFFFF;
+	font-family: 'Goudy Bookletter 1911', serif;
+	font-weight: 500;
+	font-size: 1.05em;
+	font-family: "Microsoft YaHei", "宋体", "Segoe UI", "Lucida Grande", Helvetica, Arial, sans-serif, FreeSans, Arimo;
+	background-color: #494A5F;
+}
+#bang {
+	float: left;
+	height: 500px;
+	width: 1000px;
+	margin-left: 200px;
+}
+#fen {
+	float: left;
+	height: 23px;
+	width: 110px;
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: #CCC;
+	padding-top: 7px;
+	padding-left: 10px;
+	font-size: 18px;
+}
+#tui {
+	float: left;
+	height: 32px;
+	width: 820px;
+	margin-top: 10px;
+	margin-left: 30px;
+	background-color: #CCC;
+	padding-top: 7px;
+	padding-left: 10px;
+	text-align: center;
+	font-size: 18px;
+	margin-right: 10px;
+}
+#xingee {
+	float: left;
+	height: 175px;
+	width: 120px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+#datu {
+	float: left;
+	height: 400px;
+	width: 760px;
+	margin-top: 10px;
+	margin-right: 40px;
+	margin-left: 70px;
+}
+.gem {
+	float: left;
+	height: 20px;
+	width: 140px;
+	margin-top: 10px;
+	margin-left: 30px;
+	font-size: 14px;
+	text-align: center;
+}
+.xinn {
+	float: left;
+	height: 25px;
+	width: 110px;
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-left: 5px;
+	background-color: #6FC1D2;
+	color: #FFF;
+	text-align: center;
+}
+
+
+.mvvv {
+	float: left;
+	height: 80px;
+	width: 140px;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+.mvv {
+	float: left;
+	height: 108px;
+	width: 140px;
+}
+
+
+
+.xin {
+	height: 25px;
+	width: 110px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	float: left;
+	text-align: center;
+	color: #000;
+}
+.container {
+	text-align: center;
+	margin: 0px;
+	min-height: 300px;
+	height: 200px;
+	width: 1400px;
+}
+
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+    font-weight: 300;
+    padding: .5em;
+    margin: 0;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: center;
+    font-weight: 300;
+    margin: 0;
+}
+
+body nav {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: -40px;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+	color: #aaaaaa;
+	text-decoration: none;
+}
+
+a:hover {
+	color: white;
+}
+
+li a {
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 15px;
+}
+
+li a:hover {
+    transform: rotate(5deg) scale(1.1);
+}
+
+li a:hover:before, li a:hover:after{
+    transition: all 0.3s ease;
+    opacity: 1;
+    width: 20px;
+}
+
+li a:before, li a:after {
+    opacity: 0;
+    border-top: 1px solid white;
+    content: '';
+    display: block;
+    position: relative;
+    z-index: -1;
+    margin: auto;
+    width: 0px;
+}
+
+li a:before {
+    top: 0px;
+    transform: rotate(120deg) translateY(-50%) translateX(-50%);
+}
+
+li a:after {
+    top: 5px;
+    transform: rotate(-60deg) translateY(-50%) translateX(-50%);
+}
+#sousuo {
+	float: left;
+	height: 100px;
+	width: 1400px;
+}
+#soukong {
+	float: left;
+	height: 10px;
+	width: 1400px;
+}
+#sou {
+	float: left;
+	height: 30px;
+	width: 1200px;
+	margin-left: 80px;
+}
+#zi {
+	float: left;
+	height: 25px;
+	width: 60px;
+	margin-top: 2px;
+	font-size: 24px;
+	color: #FFF;
+	margin-left: 2px;
+	padding-left: 20px;
+}
+
+#sous {
+	float: left;
+	height: 30px;
+	width: 1200px;
+}
+div.container {
+	text-align: left;
+	margin: 0px;
+	min-height: 100px;
+	float: left;
+	width: 1400px;
+}
+#wei {
+	float: left;
+	height: 200px;
+	margin-top: 30px;
+	margin-left: 30px;
+	background-color: #003366;
+	margin-right: 20px;
+	width: 100%;
+}
+#kongs {
+	float: left;
+	height: 30px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 400px;
+	text-align: center;
+}
+#ban {
+	float: left;
+	height: 30px;
+	width: 550px;
+	margin-top: 50px;
+	margin-left: 370px;
+	text-align: center;
+}
+
+.kong {
+	float: left;
+	height: 30px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 30px;
+	text-align: center;
+}
+#sousuo {
+	float: left;
+	height: 50px;
+	padding-left: 200px;
+}
+#name{
+	height: 50px;
+}

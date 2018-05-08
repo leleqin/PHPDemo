@@ -1,0 +1,45 @@
+@charset "utf-8";
+.sanquan {
+	float: left;
+	height: 1200px;
+	width: 900px;
+}
+#biao {
+	font-size: 36px;
+	color: #FFF;
+	float: left;
+	height: 55px;
+	width: 800px;
+	margin-top: 10px;
+	margin-left: 20px;
+	padding-top: 15px;
+}
+#biaoge {
+	float: left;
+	height: 1000px;
+	width: 800px;
+	margin-top: 30px;
+	margin-left: 50px;
+	font-size: 15px;
+	color: #FFF;
+	text-align: left;
+}
+.time {
+	float: left;
+	height: 30px;
+	width: 190px;
+	margin-left: 10px;
+	margin-top: 5px;
+	padding-top: 10px;
+}
+
+
+
+body {
+    color: #aaaaaa;
+    font-family: 'Goudy Bookletter 1911', serif;
+    /*background-color: #222;*/
+	background: #494A5F;
+	font-weight: 500;
+	font-size: 1.05em;
+	font-family: "Microsoft YaHei","宋体","Segoe UI", "Lucida Grande", Helvetica, Arial,sans-serif, FreeSans, Arimo;}
